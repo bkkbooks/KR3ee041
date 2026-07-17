@@ -25,8 +25,8 @@ assets:
   - {seq: 6, filename: KR3ee041_006.yaml, hash: 'sha256:3fd699cbb74b8414949be7d30bff38040260743ee1cc4d76f4aa6759381bc1e7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ee041_000.markers.yaml, hash: 'sha256:c1499d53c697b427d089ae258e28654e66180987f14338ab0be3705dce490b03'}
-  - {seq: 1, role: markers, filename: assets/KR3ee041_001.markers.yaml, hash: 'sha256:a193cf2d03cac1a3225937a9899edac9dc25b982ed29a8f7e0558a9d320b5fa5'}
-  - {seq: 2, role: markers, filename: assets/KR3ee041_002.markers.yaml, hash: 'sha256:e7c513ce431feb587c6574d71c2f4a94e2f308811ca72f9fe95acceb667ae242'}
+  - {seq: 1, role: markers, filename: assets/KR3ee041_001.markers.yaml, hash: 'sha256:69708577f4475582bda0828c416058a141695d58edb8eae5e3ee2c07a740256b'}
+  - {seq: 2, role: markers, filename: assets/KR3ee041_002.markers.yaml, hash: 'sha256:7109b5ef02cd66fb6c8e0a846f9adf0504eb58ed18c465ffaa12f3e166a97a2d'}
   - {seq: 3, role: markers, filename: assets/KR3ee041_003.markers.yaml, hash: 'sha256:d11156bc39916a9c047b5dd7690b5d991bde5da3a66dc57a00de39e64a3e42dc'}
   - {seq: 5, role: markers, filename: assets/KR3ee041_005.markers.yaml, hash: 'sha256:693004b91dbc8f0c4d9909b979bdc6fc4df6ec1a26b20c5537d1d620349fd74e'}
   - {seq: 6, role: markers, filename: assets/KR3ee041_006.markers.yaml, hash: 'sha256:88e5166efc6a9a54950947030a3d319652f6f32addea09320616d6aa303fa708'}
@@ -4621,7 +4621,7 @@ table_of_contents:
   label: 隔蒜灸癰毒法九十三
   type: section
   level: 2
-hash: sha256:56655ae881002ca938616a8e4317f228e4fb1444b074f03e12e33775f473315a
+hash: sha256:05402a834ced609d53d409244b3e69ca4b04ec7ad46373279aa3874496ad4f3f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
